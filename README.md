@@ -12,3 +12,5 @@ Name | Date | Source
 [Mongo+Socket for a real-time app](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | July 21st/2015 | [@EvNowAndForever](https://twitter.com/EvNowAndForever)'s blog
 **Gulp** | | 
 [Breaking up your Gulpfile for max resusability! (among other things)](http://viget.com/extend/gulp-browserify-starter-faq) | Sept 18th/2014 | Vidget
+**React** | | 
+[Props vs State in React](https://medium.com/react-tutorials/react-state-14a6d4f736f5) | Jan 16, 2014 | [Chris Pitt's Medium](https://medium.com/@assertchris)

@@ -4,13 +4,14 @@ I wanted a good (public & open) collection of web development articles that have
 
 Name | Date | Source
 --- | --- | ---
-**CSS Architecture** | | 
+**CSS Architecture** | |
 [Contextual Styling: UI Components, Nesting, and Implementation Detail](http://csswizardry.com/2015/06/contextual-styling-ui-components-nesting-and-implementation-detail/) | June 13th/2015 | CSSWizardry
-**NodeJS** | | 
+**NodeJS** | |
 [Build a RESTful API with Express](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4) | April 15th/2014 | scotch.io
 [Use MongoDB With a Node App on Heroku](https://scotch.io/tutorials/use-mongodb-with-a-node-application-on-heroku) | July 7th/2015 | scotch.io
 [Mongo+Socket for a real-time app](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | July 21st/2015 | [@EvNowAndForever](https://twitter.com/EvNowAndForever)'s blog
-**Gulp** | | 
+**Gulp** | |
 [Breaking up your Gulpfile for max resusability! (among other things)](http://viget.com/extend/gulp-browserify-starter-faq) | Sept 18th/2014 | Vidget
-**React** | | 
+**React** | |
 [Props vs State in React](https://medium.com/react-tutorials/react-state-14a6d4f736f5) | Jan 16, 2014 | [Chris Pitt's Medium](https://medium.com/@assertchris)
+[Using React+Webpack](https://blog.risingstack.com/using-react-with-webpack-tutorial/) | Oct 27, 2015 | [RisingStack](https://risingstack.com/)

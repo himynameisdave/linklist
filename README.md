@@ -1,6 +1,6 @@
 #### Dave's "Articles That Have Actually Taught Me Stuff"
 
-I wanted a good (public & open) collection of web development articles that have really helped me learn stuff over the years. Here's what I got so far:
+I wanted a good (and by good I mean public & open) collection of web development articles that have really helped me learn stuff over the years. Here's what I got so far:
 
 Name | Date | Source
 --- | --- | ---
@@ -12,8 +12,9 @@ Name | Date | Source
 [Mongo+Socket for a real-time app](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | July 21st/2015 | [@EvNowAndForever](https://twitter.com/EvNowAndForever)'s blog
 **Gulp** | |
 [Breaking up your Gulpfile for max resusability! (among other things)](http://viget.com/extend/gulp-browserify-starter-faq) | Sept 18th/2014 | Vidget
-**React** | |
+**React** *(and a little Flux)* | |
 [Props vs State in React](https://medium.com/react-tutorials/react-state-14a6d4f736f5) | Jan 16, 2014 | [Chris Pitt's Medium](https://medium.com/@assertchris)
 [Using React+Webpack](https://blog.risingstack.com/using-react-with-webpack-tutorial/) | Oct 27, 2015 | [RisingStack](https://risingstack.com/)
+[Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/) | Oct 31, 2014 | [@andrewray](https://twitter.com/andrewray)'s blog
 **ServiceWorkers** | |  
 [Making a Simple Site Work Offline with ServiceWorker](https://css-tricks.com/serviceworker-for-offline/) | Nov 10, 2015 | [CSS-Tricks, but written by PonyFoo](https://ponyfoo.com/)
